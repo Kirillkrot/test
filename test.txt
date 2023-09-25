@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 321
 =======
 321 = false
